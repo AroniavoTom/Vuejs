@@ -1,8 +1,4 @@
 <template>
-  <div id="app">
-    <!-- Other components go here -->
-  </div>
+  <button class="bg-indigo-500 hover:bg-fuchsia-500 rounded-sm">Save changes</button>
+  <p>  I’m Derek, an astro-engineer based in Tattooine. I like to build X-Wings  at <a class="underline decoration-sky-500/30">My Company, Inc</a>. Outside  of work, I like to <a class="underline decoration-pink-500/30">watch pod-racing</a>  and have <a class="underline decoration-indigo-500/30">light-saber</a> fights.</p>
 </template>
-
-<script setup>
-</script>
